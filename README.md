@@ -6,7 +6,7 @@ This repository contains the source code for my car rental website. The website 
 
 ## Live Demo
 
-You can check out the live demo of my car rental website here: (still struggling to host app online, any help is appreciated)
+You can check out the live demo of my car rental website here: https://stompie222.github.io/Car-Rental-Website/#home
 
 ## Features
 
